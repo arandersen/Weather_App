@@ -10,7 +10,6 @@ Technologies Used
 Frontend: React.js
 Backend: Django, Django REST Framework
 APIs: OpenWeatherMap API, GeoDB Cities API
-Deployment: Heroku (backend), Netlify (frontend)
 Installation
 1. Clone the Repository
 bash
